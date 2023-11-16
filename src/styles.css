@@ -1,0 +1,215 @@
+.nav {
+  height: 100px;
+
+  width: 103.7%;
+
+  background-color: purple;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: -8px;
+  margin-left: -9px;
+}
+
+.home {
+  text-decoration: none;
+  color: white;
+  font-size: 5vw;
+}
+
+.home:hover {
+  color: red;
+  text-decoration: underline;
+  font-size: 8vw;
+}
+
+.flower {
+  text-decoration: none;
+  color: white;
+  font-size: 5vw;
+}
+
+.flower:hover {
+  color: red;
+  text-decoration: underline;
+  font-size: 8vw;
+}
+
+.about {
+  text-decoration: none;
+  color: white;
+  font-size: 5vw;
+}
+
+.about:hover {
+  text-decoration: underline;
+  color: red;
+  font-size: 8vw;
+}
+
+.rose {
+  background: url("https://i.postimg.cc/TYGGpLRX/pexels-picjumbocom-196664.jpg")
+    no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 350px;
+  color: white;
+  padding: 45px 23px;
+}
+
+.pew {
+  font-size: 10vw;
+}
+
+.saas {
+  height: 10vh;
+  width: 100%;
+  cursor: pointer;
+}
+
+.native {
+  height: 25vh;
+  width: 35vw;
+  margin-top: 12px;
+  cursor: pointer;
+}
+
+.native:hover {
+  height: 30vh;
+  width: 50vw;
+}
+
+.design {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.king {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 0px;
+  margin-top: 30px;
+}
+
+.tan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  column-gap: -10px;
+}
+
+.price {
+  margin-top: -10px;
+}
+
+.link-design {
+  text-decoration: none;
+  color: black;
+}
+
+.cody {
+  height: 75vh;
+  width: 103%;
+}
+
+
+
+.buy{
+
+height: 10vh;
+width: 50%;
+background-color: yellow;
+color: black;
+font-size: 19px;
+
+}
+
+
+.flo2{
+
+height: 30vh;
+width: 50vw;
+margin-top: 12px;
+
+
+}
+
+
+.pal{
+
+height: 70px;
+width: 90px;
+cursor: pointer;
+}
+
+.gpay{
+height: 60px;
+cursor: pointer;
+}
+
+.master{
+
+height: 50px;;
+cursor: pointer;
+
+}
+
+
+.gaurimaa{
+
+display: grid;
+grid-template-columns: repeat(3,1fr);
+margin-left: 50px;
+
+
+}
+
+
+.king1{
+
+display: flex;
+flex-direction: column;
+
+
+
+
+}
+
+
+
+.simple1{
+
+text-decoration: none;
+color: brown;
+
+
+
+}
+
+.simple2{
+
+  text-decoration: none;
+  color: brown;
+}
+
+.simple3{
+
+text-decoration: none;
+color: brown;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
